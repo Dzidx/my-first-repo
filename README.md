@@ -1,5 +1,3 @@
-Nama : Dzaky Ahmad Trinindito
-
+Name : Dzaky Ahmad Trinindito
 NPM : 2406406351
-
 Kelas : PBP D
